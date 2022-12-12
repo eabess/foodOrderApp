@@ -11,6 +11,19 @@
   padding: 0;
 }
 
+.mealLogging {
+  text-align: center;
+  color: #383838;
+  font-size: 2rem;
+}
+
+.httpError {
+  text-align: center;
+  color: rgb(255, 64, 0);
+  font-size: 2rem;
+  font-weight: bold;
+}
+
 @keyframes meals-appear {
   from {
     opacity: 0;
