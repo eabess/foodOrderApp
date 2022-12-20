@@ -1,7 +1,7 @@
 # foodOrderApp
 Food Order App written in React.
 
-RUNNING THE ATTACHED CODE
+# RUNNING THE ATTACHED CODE
 You can run my code.
 
 To run my code, navigate into a specific code snapshot folder via the cd command in your command prompt or terminal first.
